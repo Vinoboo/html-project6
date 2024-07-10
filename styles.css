@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: #a9dfd6;
+}
+button{
+    color: #fe9b96;
+}
